@@ -1,0 +1,601 @@
+emp_id,similarity,rule_norm,final_score,missing_must_haves
+E0259,0.346,1.0,0.542,-
+E0197,0.29,1.0,0.503,-
+E0360,0.28,1.0,0.496,-
+E0409,0.258,1.0,0.481,-
+E0133,0.247,1.0,0.473,-
+E0024,0.246,1.0,0.472,-
+E0517,0.287,0.889,0.468,-
+E0270,0.235,1.0,0.465,-
+E0112,0.275,0.889,0.459,-
+E0113,0.219,1.0,0.453,-
+E0264,0.306,0.778,0.447,python
+E0379,0.253,0.889,0.444,-
+E0546,0.203,1.0,0.442,-
+E0562,0.246,0.889,0.439,-
+E0349,0.241,0.889,0.436,-
+E0240,0.194,1.0,0.436,-
+E0491,0.238,0.889,0.433,-
+E0093,0.235,0.889,0.431,-
+E0599,0.231,0.889,0.428,-
+E0356,0.229,0.889,0.427,-
+E0488,0.228,0.889,0.426,-
+E0282,0.226,0.889,0.425,-
+E0583,0.225,0.889,0.424,-
+E0440,0.217,0.889,0.418,-
+E0136,0.212,0.889,0.415,-
+E0590,0.256,0.778,0.412,scikit-learn
+E0014,0.205,0.889,0.41,-
+E0580,0.243,0.778,0.403,-
+E0266,0.242,0.778,0.403,-
+E0393,0.237,0.778,0.4,-
+E0214,0.191,0.889,0.4,-
+E0168,0.235,0.778,0.398,-
+E0274,0.236,0.778,0.398,-
+E0169,0.236,0.778,0.398,-
+E0345,0.229,0.778,0.394,-
+E0053,0.229,0.778,0.394,-
+E0273,0.227,0.778,0.393,-
+E0143,0.228,0.778,0.393,-
+E0209,0.229,0.778,0.393,-
+E0205,0.226,0.778,0.391,python
+E0592,0.225,0.778,0.391,-
+E0341,0.175,0.889,0.389,-
+E0507,0.222,0.778,0.389,python
+E0125,0.222,0.778,0.389,-
+E0082,0.219,0.778,0.387,python
+E0372,0.219,0.778,0.386,-
+E0329,0.216,0.778,0.385,-
+E0059,0.168,0.889,0.385,-
+E0031,0.204,0.778,0.376,-
+E0423,0.247,0.667,0.373,python
+E0088,0.152,0.889,0.373,-
+E0065,0.199,0.778,0.373,-
+E0505,0.199,0.778,0.373,python
+E0422,0.197,0.778,0.371,-
+E0017,0.193,0.778,0.369,-
+E0328,0.147,0.889,0.369,-
+E0429,0.241,0.667,0.369,python
+E0441,0.194,0.778,0.369,-
+E0509,0.144,0.889,0.367,-
+E0391,0.191,0.778,0.367,-
+E0498,0.19,0.778,0.366,-
+E0334,0.185,0.778,0.363,-
+E0380,0.18,0.778,0.359,-
+E0565,0.178,0.778,0.358,scikit-learn
+E0427,0.177,0.778,0.357,-
+E0376,0.129,0.889,0.357,-
+E0187,0.177,0.778,0.357,-
+E0009,0.222,0.667,0.355,scikit-learn
+E0465,0.171,0.778,0.353,scikit-learn
+E0428,0.166,0.778,0.349,python
+E0242,0.21,0.667,0.347,python
+E0414,0.208,0.667,0.345,python
+E0253,0.204,0.667,0.343,scikit-learn
+E0348,0.148,0.778,0.337,-
+E0015,0.195,0.667,0.336,-
+E0256,0.193,0.667,0.335,python
+E0338,0.187,0.667,0.331,-
+E0566,0.135,0.778,0.328,-
+E0221,0.135,0.778,0.328,-
+E0467,0.181,0.667,0.327,-
+E0332,0.18,0.667,0.326,python
+E0294,0.177,0.667,0.324,scikit-learn
+E0327,0.174,0.667,0.322,scikit-learn
+E0027,0.167,0.667,0.317,python
+E0511,0.164,0.667,0.315,python
+E0111,0.162,0.667,0.314,-
+E0375,0.116,0.778,0.314,scikit-learn
+E0005,0.16,0.667,0.312,scikit-learn
+E0537,0.108,0.778,0.309,scikit-learn
+E0097,0.155,0.667,0.309,scikit-learn
+E0258,0.152,0.667,0.307,python
+E0193,0.199,0.556,0.306,python; scikit-learn
+E0549,0.103,0.778,0.305,-
+E0029,0.191,0.556,0.301,python
+E0204,0.189,0.556,0.299,python
+E0055,0.184,0.556,0.296,python
+E0092,0.181,0.556,0.293,python
+E0247,0.181,0.556,0.293,python
+E0215,0.18,0.556,0.292,python
+E0102,0.123,0.667,0.286,python
+E0307,0.162,0.556,0.28,scikit-learn
+E0285,0.16,0.556,0.278,scikit-learn
+E0161,0.153,0.556,0.274,scikit-learn
+E0115,0.15,0.556,0.272,scikit-learn
+E0290,0.146,0.556,0.269,scikit-learn
+E0489,0.147,0.556,0.269,python
+E0124,0.143,0.556,0.267,python
+E0396,0.143,0.556,0.266,python
+E0336,0.121,0.556,0.251,scikit-learn
+E0323,0.168,0.444,0.251,python
+E0425,0.118,0.556,0.249,python
+E0598,0.163,0.444,0.248,python
+E0244,0.162,0.444,0.247,python
+E0150,0.113,0.556,0.245,scikit-learn
+E0120,0.108,0.556,0.242,scikit-learn
+E0172,0.144,0.444,0.234,python
+E0559,0.139,0.444,0.231,python; scikit-learn
+E0040,0.09,0.556,0.23,python; scikit-learn
+E0236,0.129,0.444,0.224,python; scikit-learn
+E0387,0.069,0.556,0.215,scikit-learn
+E0501,0.064,0.556,0.211,scikit-learn
+E0041,0.06,0.556,0.208,scikit-learn
+E0073,0.086,0.333,0.16,python; scikit-learn
+E0071,0.035,0.444,0.158,scikit-learn
+E0450,0.082,0.333,0.157,python; scikit-learn
+E0314,0.076,0.333,0.153,python; scikit-learn
+E0280,0.036,0.222,0.092,python; scikit-learn
+E0525,0.025,0.222,0.084,ml; scikit-learn
+E0477,0.025,0.222,0.084,ml; scikit-learn
+E0061,0.023,0.222,0.083,ml; scikit-learn
+E0480,0.023,0.222,0.083,ml; scikit-learn
+E0207,0.023,0.222,0.083,ml; scikit-learn
+E0004,0.021,0.222,0.082,ml; scikit-learn
+E0404,0.022,0.222,0.082,ml; scikit-learn
+E0231,0.021,0.222,0.082,ml; scikit-learn
+E0399,0.022,0.222,0.082,ml; scikit-learn
+E0430,0.021,0.222,0.081,ml; scikit-learn
+E0144,0.021,0.222,0.081,ml; scikit-learn
+E0158,0.021,0.222,0.081,ml; scikit-learn
+E0316,0.019,0.222,0.08,ml; scikit-learn
+E0163,0.017,0.222,0.079,ml; scikit-learn
+E0481,0.017,0.222,0.079,ml; scikit-learn
+E0025,0.017,0.222,0.079,ml; scikit-learn
+E0515,0.018,0.222,0.079,ml; scikit-learn
+E0308,0.017,0.222,0.078,ml; scikit-learn
+E0510,0.016,0.222,0.078,ml; scikit-learn
+E0116,0.016,0.222,0.078,ml; scikit-learn
+E0087,0.016,0.222,0.078,ml; scikit-learn
+E0306,0.017,0.222,0.078,ml; scikit-learn
+E0062,0.016,0.222,0.078,ml; scikit-learn
+E0532,0.017,0.222,0.078,ml; scikit-learn
+E0149,0.017,0.222,0.078,ml; scikit-learn
+E0530,0.016,0.222,0.078,ml; scikit-learn
+E0013,0.015,0.222,0.078,ml; scikit-learn
+E0432,0.016,0.222,0.078,ml; scikit-learn
+E0026,0.016,0.222,0.078,ml; scikit-learn
+E0424,0.017,0.222,0.078,ml; scikit-learn
+E0431,0.017,0.222,0.078,ml; scikit-learn
+E0492,0.017,0.222,0.078,ml; scikit-learn
+E0272,0.016,0.222,0.078,ml; scikit-learn
+E0476,0.016,0.222,0.078,ml; scikit-learn
+E0295,0.017,0.222,0.078,ml; scikit-learn
+E0400,0.016,0.222,0.078,ml; scikit-learn
+E0268,0.016,0.222,0.078,ml; scikit-learn
+E0030,0.015,0.222,0.077,ml; scikit-learn
+E0597,0.015,0.222,0.077,ml; scikit-learn
+E0142,0.015,0.222,0.077,ml; scikit-learn
+E0140,0.015,0.222,0.077,ml; scikit-learn
+E0119,0.015,0.222,0.077,ml; scikit-learn
+E0100,0.015,0.222,0.077,ml; scikit-learn
+E0331,0.015,0.222,0.077,ml; scikit-learn
+E0594,0.015,0.222,0.077,ml; scikit-learn
+E0279,0.015,0.222,0.077,ml; scikit-learn
+E0362,0.015,0.222,0.077,ml; scikit-learn
+E0373,0.014,0.222,0.077,ml; scikit-learn
+E0454,0.015,0.222,0.077,ml; scikit-learn
+E0219,0.015,0.222,0.077,ml; scikit-learn
+E0216,0.014,0.222,0.077,ml; scikit-learn
+E0486,0.015,0.222,0.077,ml; scikit-learn
+E0291,0.015,0.222,0.077,ml; scikit-learn
+E0304,0.015,0.222,0.077,ml; scikit-learn
+E0299,0.014,0.222,0.077,ml; scikit-learn
+E0444,0.015,0.222,0.077,ml; scikit-learn
+E0463,0.014,0.222,0.077,ml; scikit-learn
+E0177,0.015,0.222,0.077,ml; scikit-learn
+E0412,0.015,0.222,0.077,ml; scikit-learn
+E0438,0.015,0.222,0.077,ml; scikit-learn
+E0042,0.014,0.222,0.077,ml; scikit-learn
+E0581,0.015,0.222,0.077,ml; scikit-learn
+E0568,0.015,0.222,0.077,ml; scikit-learn
+E0080,0.015,0.222,0.077,ml; scikit-learn
+E0574,0.015,0.222,0.077,ml; scikit-learn
+E0575,0.015,0.222,0.077,ml; scikit-learn
+E0587,0.015,0.222,0.077,ml; scikit-learn
+E0547,0.015,0.222,0.077,ml; scikit-learn
+E0536,0.015,0.222,0.077,ml; scikit-learn
+E0552,0.015,0.222,0.077,ml; scikit-learn
+E0550,0.015,0.222,0.077,ml; scikit-learn
+E0131,0.014,0.222,0.076,ml; scikit-learn
+E0141,0.013,0.222,0.076,ml; scikit-learn
+E0287,0.013,0.222,0.076,ml; scikit-learn
+E0364,0.014,0.222,0.076,ml; scikit-learn
+E0179,0.013,0.222,0.076,ml; scikit-learn
+E0470,0.014,0.222,0.076,ml; scikit-learn
+E0220,0.013,0.222,0.076,ml; scikit-learn
+E0419,0.014,0.222,0.076,ml; scikit-learn
+E0401,0.014,0.222,0.076,ml; scikit-learn
+E0235,0.014,0.222,0.076,ml; scikit-learn
+E0226,0.014,0.222,0.076,ml; scikit-learn
+E0160,0.013,0.222,0.076,ml; scikit-learn
+E0038,0.014,0.222,0.076,ml; scikit-learn
+E0034,0.013,0.222,0.076,ml; scikit-learn
+E0563,0.013,0.222,0.076,ml; scikit-learn
+E0367,0.013,0.222,0.076,ml; scikit-learn
+E0301,0.013,0.222,0.076,ml; scikit-learn
+E0394,0.012,0.222,0.075,ml; scikit-learn
+E0249,0.011,0.222,0.075,ml; scikit-learn
+E0010,0.011,0.222,0.075,ml; scikit-learn
+E0007,0.012,0.222,0.075,ml; scikit-learn
+E0003,0.011,0.222,0.075,ml; scikit-learn
+E0139,0.012,0.222,0.075,ml; scikit-learn
+E0392,0.012,0.222,0.075,ml; scikit-learn
+E0276,0.013,0.222,0.075,ml; scikit-learn
+E0483,0.012,0.222,0.075,ml; scikit-learn
+E0570,0.012,0.222,0.075,ml; scikit-learn
+E0218,0.012,0.222,0.075,ml; scikit-learn
+E0544,0.012,0.222,0.075,ml; scikit-learn
+E0543,0.012,0.222,0.075,ml; scikit-learn
+E0110,0.012,0.222,0.075,ml; scikit-learn
+E0050,0.012,0.222,0.075,ml; scikit-learn
+E0311,0.011,0.222,0.075,ml; scikit-learn
+E0410,0.012,0.222,0.075,ml; scikit-learn
+E0484,0.011,0.222,0.075,ml; scikit-learn
+E0237,0.011,0.222,0.074,ml; scikit-learn
+E0528,0.011,0.222,0.074,ml; scikit-learn
+E0156,0.011,0.222,0.074,ml; scikit-learn
+E0406,0.011,0.222,0.074,ml; scikit-learn
+E0585,0.011,0.222,0.074,ml; scikit-learn
+E0021,0.011,0.222,0.074,ml; scikit-learn
+E0564,0.01,0.222,0.074,ml; scikit-learn
+E0202,0.01,0.222,0.074,ml; scikit-learn
+E0011,0.011,0.222,0.074,ml; scikit-learn
+E0558,0.01,0.222,0.073,ml; scikit-learn
+E0057,0.009,0.222,0.073,ml; scikit-learn
+E0541,0.009,0.222,0.073,ml; scikit-learn
+E0475,0.01,0.222,0.073,ml; scikit-learn
+E0151,0.008,0.222,0.073,ml; scikit-learn
+E0461,0.009,0.222,0.073,ml; scikit-learn
+E0148,0.009,0.222,0.073,ml; scikit-learn
+E0469,0.009,0.222,0.073,ml; scikit-learn
+E0398,0.009,0.222,0.073,ml; scikit-learn
+E0210,0.009,0.222,0.073,ml; scikit-learn
+E0105,0.009,0.222,0.073,ml; scikit-learn
+E0165,0.009,0.222,0.073,ml; scikit-learn
+E0174,0.009,0.222,0.073,ml; scikit-learn
+E0051,0.009,0.222,0.073,ml; scikit-learn
+E0353,0.009,0.222,0.073,ml; scikit-learn
+E0157,0.008,0.222,0.073,ml; scikit-learn
+E0554,0.008,0.222,0.072,ml; scikit-learn
+E0593,0.008,0.222,0.072,ml; scikit-learn
+E0434,0.008,0.222,0.072,ml; scikit-learn
+E0508,0.008,0.222,0.072,ml; scikit-learn
+E0497,0.008,0.222,0.072,ml; scikit-learn
+E0103,0.007,0.222,0.072,ml; scikit-learn
+E0123,0.007,0.222,0.072,ml; scikit-learn
+E0128,0.008,0.222,0.072,ml; scikit-learn
+E0595,0.008,0.222,0.072,ml; scikit-learn
+E0090,0.008,0.222,0.072,ml; scikit-learn
+E0099,0.007,0.222,0.072,ml; scikit-learn
+E0526,0.008,0.222,0.072,ml; scikit-learn
+E0146,0.008,0.222,0.072,ml; scikit-learn
+E0577,0.008,0.222,0.072,ml; scikit-learn
+E0043,0.007,0.222,0.072,ml; scikit-learn
+E0478,0.008,0.222,0.072,ml; scikit-learn
+E0255,0.008,0.222,0.072,ml; scikit-learn
+E0066,0.006,0.222,0.071,ml; scikit-learn
+E0072,0.007,0.222,0.071,ml; scikit-learn
+E0358,0.006,0.222,0.071,ml; scikit-learn
+E0018,0.006,0.222,0.071,ml; scikit-learn
+E0325,0.007,0.222,0.071,ml; scikit-learn
+E0309,0.006,0.222,0.071,ml; scikit-learn
+E0531,0.006,0.222,0.071,ml; scikit-learn
+E0539,0.007,0.222,0.071,ml; scikit-learn
+E0377,0.006,0.222,0.071,ml; scikit-learn
+E0363,0.006,0.222,0.071,ml; scikit-learn
+E0445,0.006,0.222,0.071,ml; scikit-learn
+E0456,0.006,0.222,0.071,ml; scikit-learn
+E0085,0.006,0.222,0.071,ml; scikit-learn
+E0313,0.006,0.222,0.071,ml; scikit-learn
+E0083,0.006,0.222,0.071,ml; scikit-learn
+E0522,0.006,0.222,0.071,ml; scikit-learn
+E0089,0.006,0.222,0.071,ml; scikit-learn
+E0513,0.006,0.222,0.071,ml; scikit-learn
+E0435,0.006,0.222,0.071,ml; scikit-learn
+E0033,0.006,0.222,0.071,ml; scikit-learn
+E0045,0.006,0.222,0.071,ml; scikit-learn
+E0407,0.006,0.222,0.071,ml; scikit-learn
+E0225,0.006,0.222,0.071,ml; scikit-learn
+E0234,0.006,0.222,0.071,ml; scikit-learn
+E0578,0.006,0.222,0.071,ml; scikit-learn
+E0573,0.006,0.222,0.071,ml; scikit-learn
+E0239,0.006,0.222,0.071,ml; scikit-learn
+E0194,0.006,0.222,0.071,ml; scikit-learn
+E0186,0.006,0.222,0.071,ml; scikit-learn
+E0182,0.006,0.222,0.071,ml; scikit-learn
+E0464,0.007,0.222,0.071,ml; scikit-learn
+E0448,0.006,0.222,0.071,ml; scikit-learn
+E0195,0.007,0.222,0.071,ml; scikit-learn
+E0170,0.006,0.222,0.071,ml; scikit-learn
+E0002,0.006,0.222,0.071,ml; scikit-learn
+E0378,0.006,0.222,0.071,ml; scikit-learn
+E0135,0.006,0.222,0.071,ml; scikit-learn
+E0293,0.006,0.222,0.071,ml; scikit-learn
+E0281,0.007,0.222,0.071,ml; scikit-learn
+E0390,0.006,0.222,0.071,ml; scikit-learn
+E0555,0.005,0.222,0.07,ml; scikit-learn
+E0548,0.005,0.222,0.07,ml; scikit-learn
+E0077,0.005,0.222,0.07,ml; scikit-learn
+E0171,0.005,0.222,0.07,ml; scikit-learn
+E0472,0.005,0.222,0.07,ml; scikit-learn
+E0261,0.004,0.222,0.07,ml; scikit-learn
+E0248,0.005,0.222,0.07,ml; scikit-learn
+E0203,0.005,0.222,0.07,ml; scikit-learn
+E0191,0.005,0.222,0.07,ml; scikit-learn
+E0411,0.005,0.222,0.07,ml; scikit-learn
+E0173,0.005,0.222,0.07,ml; scikit-learn
+E0117,0.005,0.222,0.07,ml; scikit-learn
+E0506,0.005,0.222,0.07,ml; scikit-learn
+E0130,0.005,0.222,0.07,ml; scikit-learn
+E0288,0.005,0.222,0.07,ml; scikit-learn
+E0284,0.005,0.222,0.07,ml; scikit-learn
+E0371,0.005,0.222,0.07,ml; scikit-learn
+E0296,0.004,0.222,0.07,ml; scikit-learn
+E0176,0.005,0.222,0.07,ml; scikit-learn
+E0382,0.005,0.222,0.07,ml; scikit-learn
+E0155,0.005,0.222,0.07,ml; scikit-learn
+E0502,0.005,0.222,0.07,ml; scikit-learn
+E0361,0.005,0.222,0.07,ml; scikit-learn
+E0056,0.005,0.222,0.07,ml; scikit-learn
+E0343,0.005,0.222,0.07,ml; scikit-learn
+E0020,0.005,0.222,0.07,ml; scikit-learn
+E0104,0.003,0.222,0.069,python; scikit-learn
+E0107,0.003,0.222,0.069,python; scikit-learn
+E0518,0.003,0.222,0.069,python; scikit-learn
+E0095,0.004,0.222,0.069,python; scikit-learn
+E0096,0.003,0.222,0.069,python; scikit-learn
+E0084,0.003,0.222,0.069,python; scikit-learn
+E0054,0.003,0.222,0.069,python; scikit-learn
+E0052,0.003,0.222,0.069,python; scikit-learn
+E0516,0.003,0.222,0.069,python; scikit-learn
+E0275,0.003,0.222,0.069,python; scikit-learn
+E0286,0.003,0.222,0.069,python; scikit-learn
+E0283,0.003,0.222,0.069,python; scikit-learn
+E0503,0.003,0.222,0.069,python; scikit-learn
+E0512,0.003,0.222,0.069,python; scikit-learn
+E0520,0.003,0.222,0.069,python; scikit-learn
+E0081,0.003,0.222,0.069,python; scikit-learn
+E0514,0.003,0.222,0.069,python; scikit-learn
+E0257,0.003,0.222,0.069,python; scikit-learn
+E0262,0.003,0.222,0.069,python; scikit-learn
+E0245,0.003,0.222,0.069,python; scikit-learn
+E0433,0.003,0.222,0.069,python; scikit-learn
+E0442,0.003,0.222,0.069,python; scikit-learn
+E0417,0.003,0.222,0.069,python; scikit-learn
+E0408,0.003,0.222,0.069,python; scikit-learn
+E0250,0.003,0.222,0.069,python; scikit-learn
+E0252,0.003,0.222,0.069,python; scikit-learn
+E0254,0.003,0.222,0.069,python; scikit-learn
+E0298,0.003,0.222,0.069,python; scikit-learn
+E0300,0.003,0.222,0.069,python; scikit-learn
+E0437,0.003,0.222,0.069,python; scikit-learn
+E0426,0.003,0.222,0.069,python; scikit-learn
+E0381,0.003,0.222,0.069,python; scikit-learn
+E0326,0.003,0.222,0.069,python; scikit-learn
+E0346,0.003,0.222,0.069,python; scikit-learn
+E0366,0.003,0.222,0.069,python; scikit-learn
+E0354,0.003,0.222,0.069,python; scikit-learn
+E0342,0.003,0.222,0.069,python; scikit-learn
+E0232,0.003,0.222,0.069,python; scikit-learn
+E0420,0.003,0.222,0.069,python; scikit-learn
+E0418,0.003,0.222,0.069,python; scikit-learn
+E0181,0.003,0.222,0.069,python; scikit-learn
+E0180,0.003,0.222,0.069,python; scikit-learn
+E0121,0.003,0.222,0.069,python; scikit-learn
+E0122,0.003,0.222,0.069,python; scikit-learn
+E0457,0.003,0.222,0.069,python; scikit-learn
+E0453,0.003,0.222,0.069,python; scikit-learn
+E0452,0.003,0.222,0.069,python; scikit-learn
+E0451,0.003,0.222,0.069,python; scikit-learn
+E0154,0.003,0.222,0.069,python; scikit-learn
+E0167,0.003,0.222,0.069,python; scikit-learn
+E0166,0.003,0.222,0.069,python; scikit-learn
+E0162,0.003,0.222,0.069,python; scikit-learn
+E0008,0.003,0.222,0.069,python; scikit-learn
+E0076,0.003,0.222,0.069,python; scikit-learn
+E0545,0.003,0.222,0.069,python; scikit-learn
+E0060,0.003,0.222,0.069,python; scikit-learn
+E0312,0.003,0.222,0.069,python; scikit-learn
+E0317,0.003,0.222,0.069,python; scikit-learn
+E0579,0.003,0.222,0.069,python; scikit-learn
+E0023,0.003,0.222,0.069,python; scikit-learn
+E0586,0.003,0.222,0.069,python; scikit-learn
+E0047,0.003,0.222,0.069,python; scikit-learn
+E0035,0.003,0.222,0.069,python; scikit-learn
+E0553,0.003,0.222,0.069,python; scikit-learn
+E0075,0.003,0.222,0.069,python; scikit-learn
+E0529,0.003,0.222,0.069,python; scikit-learn
+E0058,0.003,0.222,0.069,python; scikit-learn
+E0582,0.003,0.222,0.069,python; scikit-learn
+E0068,0.003,0.222,0.069,python; scikit-learn
+E0070,0.003,0.222,0.069,python; scikit-learn
+E0064,0.003,0.222,0.069,python; scikit-learn
+E0468,0.003,0.222,0.069,python; scikit-learn
+E0199,0.003,0.222,0.069,python; scikit-learn
+E0200,0.003,0.222,0.069,python; scikit-learn
+E0201,0.003,0.222,0.069,python; scikit-learn
+E0206,0.003,0.222,0.069,python; scikit-learn
+E0208,0.003,0.222,0.069,python; scikit-learn
+E0145,0.003,0.222,0.069,python; scikit-learn
+E0192,0.003,0.222,0.069,python; scikit-learn
+E0185,0.003,0.222,0.069,python; scikit-learn
+E0495,0.003,0.222,0.069,python; scikit-learn
+E0474,0.003,0.222,0.069,python; scikit-learn
+E0471,0.003,0.222,0.069,python; scikit-learn
+E0490,0.003,0.222,0.069,python; scikit-learn
+E0487,0.003,0.222,0.069,python; scikit-learn
+E0137,0.003,0.222,0.069,python; scikit-learn
+E0134,0.003,0.222,0.069,python; scikit-learn
+E0129,0.003,0.222,0.069,python; scikit-learn
+E0460,0.003,0.222,0.069,python; scikit-learn
+E0458,0.003,0.222,0.069,python; scikit-learn
+E0196,0.003,0.222,0.069,python; scikit-learn
+E0402,0.003,0.222,0.069,python; scikit-learn
+E0403,0.003,0.222,0.069,python; scikit-learn
+E0421,0.003,0.222,0.068,python; scikit-learn
+E0118,0.002,0.222,0.068,python; scikit-learn
+E0538,0.002,0.222,0.068,python; scikit-learn
+E0355,0.002,0.222,0.068,python; scikit-learn
+E0263,0.002,0.222,0.068,python; scikit-learn
+E0337,0.002,0.222,0.068,python; scikit-learn
+E0260,0.003,0.222,0.068,python; scikit-learn
+E0344,0.003,0.222,0.068,python; scikit-learn
+E0246,0.003,0.222,0.068,python; scikit-learn
+E0416,0.002,0.222,0.068,python; scikit-learn
+E0339,0.002,0.222,0.068,python; scikit-learn
+E0556,0.002,0.222,0.068,python; scikit-learn
+E0091,0.004,0.0,0.003,python; ml; scikit-learn
+E0389,0.004,0.0,0.003,python; ml; scikit-learn
+E0405,0.003,0.0,0.002,python; ml; scikit-learn
+E0436,0.003,0.0,0.002,python; ml; scikit-learn
+E0374,0.003,0.0,0.002,python; ml; scikit-learn
+E0439,0.003,0.0,0.002,python; ml; scikit-learn
+E0251,0.003,0.0,0.002,python; ml; scikit-learn
+E0413,0.003,0.0,0.002,python; ml; scikit-learn
+E0415,0.003,0.0,0.002,python; ml; scikit-learn
+E0443,0.003,0.0,0.002,python; ml; scikit-learn
+E0388,0.003,0.0,0.002,python; ml; scikit-learn
+E0395,0.003,0.0,0.002,python; ml; scikit-learn
+E0302,0.003,0.0,0.002,python; ml; scikit-learn
+E0303,0.003,0.0,0.002,python; ml; scikit-learn
+E0370,0.003,0.0,0.002,python; ml; scikit-learn
+E0322,0.003,0.0,0.002,python; ml; scikit-learn
+E0321,0.003,0.0,0.002,python; ml; scikit-learn
+E0351,0.003,0.0,0.002,python; ml; scikit-learn
+E0350,0.003,0.0,0.002,python; ml; scikit-learn
+E0347,0.003,0.0,0.002,python; ml; scikit-learn
+E0357,0.002,0.0,0.002,python; ml; scikit-learn
+E0368,0.003,0.0,0.002,python; ml; scikit-learn
+E0333,0.003,0.0,0.002,python; ml; scikit-learn
+E0386,0.003,0.0,0.002,python; ml; scikit-learn
+E0384,0.003,0.0,0.002,python; ml; scikit-learn
+E0383,0.003,0.0,0.002,python; ml; scikit-learn
+E0265,0.003,0.0,0.002,python; ml; scikit-learn
+E0269,0.003,0.0,0.002,python; ml; scikit-learn
+E0271,0.003,0.0,0.002,python; ml; scikit-learn
+E0241,0.003,0.0,0.002,python; ml; scikit-learn
+E0243,0.003,0.0,0.002,python; ml; scikit-learn
+E0359,0.003,0.0,0.002,python; ml; scikit-learn
+E0340,0.003,0.0,0.002,python; ml; scikit-learn
+E0521,0.003,0.0,0.002,python; ml; scikit-learn
+E0519,0.003,0.0,0.002,python; ml; scikit-learn
+E0098,0.003,0.0,0.002,python; ml; scikit-learn
+E0101,0.003,0.0,0.002,python; ml; scikit-learn
+E0086,0.003,0.0,0.002,python; ml; scikit-learn
+E0094,0.003,0.0,0.002,python; ml; scikit-learn
+E0504,0.003,0.0,0.002,python; ml; scikit-learn
+E0527,0.003,0.0,0.002,python; ml; scikit-learn
+E0049,0.003,0.0,0.002,python; ml; scikit-learn
+E0109,0.003,0.0,0.002,python; ml; scikit-learn
+E0001,0.003,0.0,0.002,python; ml; scikit-learn
+E0019,0.003,0.0,0.002,python; ml; scikit-learn
+E0108,0.003,0.0,0.002,python; ml; scikit-learn
+E0106,0.003,0.0,0.002,python; ml; scikit-learn
+E0524,0.003,0.0,0.002,python; ml; scikit-learn
+E0523,0.003,0.0,0.002,python; ml; scikit-learn
+E0138,0.002,0.0,0.002,python; ml; scikit-learn
+E0499,0.003,0.0,0.002,python; ml; scikit-learn
+E0278,0.003,0.0,0.002,python; ml; scikit-learn
+E0277,0.003,0.0,0.002,python; ml; scikit-learn
+E0292,0.003,0.0,0.002,python; ml; scikit-learn
+E0297,0.003,0.0,0.002,python; ml; scikit-learn
+E0330,0.003,0.0,0.002,python; ml; scikit-learn
+E0324,0.003,0.0,0.002,python; ml; scikit-learn
+E0267,0.003,0.0,0.002,python; ml; scikit-learn
+E0189,0.003,0.0,0.002,python; ml; scikit-learn
+E0147,0.003,0.0,0.002,python; ml; scikit-learn
+E0230,0.003,0.0,0.002,python; ml; scikit-learn
+E0238,0.003,0.0,0.002,python; ml; scikit-learn
+E0152,0.003,0.0,0.002,python; ml; scikit-learn
+E0479,0.003,0.0,0.002,python; ml; scikit-learn
+E0466,0.003,0.0,0.002,python; ml; scikit-learn
+E0496,0.003,0.0,0.002,python; ml; scikit-learn
+E0494,0.003,0.0,0.002,python; ml; scikit-learn
+E0493,0.003,0.0,0.002,python; ml; scikit-learn
+E0132,0.003,0.0,0.002,python; ml; scikit-learn
+E0455,0.003,0.0,0.002,python; ml; scikit-learn
+E0126,0.003,0.0,0.002,python; ml; scikit-learn
+E0449,0.003,0.0,0.002,python; ml; scikit-learn
+E0447,0.003,0.0,0.002,python; ml; scikit-learn
+E0446,0.003,0.0,0.002,python; ml; scikit-learn
+E0183,0.003,0.0,0.002,python; ml; scikit-learn
+E0462,0.003,0.0,0.002,python; ml; scikit-learn
+E0178,0.003,0.0,0.002,python; ml; scikit-learn
+E0198,0.003,0.0,0.002,python; ml; scikit-learn
+E0459,0.003,0.0,0.002,python; ml; scikit-learn
+E0227,0.003,0.0,0.002,python; ml; scikit-learn
+E0224,0.002,0.0,0.002,python; ml; scikit-learn
+E0223,0.003,0.0,0.002,python; ml; scikit-learn
+E0222,0.003,0.0,0.002,python; ml; scikit-learn
+E0217,0.002,0.0,0.002,python; ml; scikit-learn
+E0213,0.003,0.0,0.002,python; ml; scikit-learn
+E0212,0.003,0.0,0.002,python; ml; scikit-learn
+E0211,0.003,0.0,0.002,python; ml; scikit-learn
+E0233,0.003,0.0,0.002,python; ml; scikit-learn
+E0006,0.003,0.0,0.002,python; ml; scikit-learn
+E0596,0.003,0.0,0.002,python; ml; scikit-learn
+E0012,0.003,0.0,0.002,python; ml; scikit-learn
+E0022,0.003,0.0,0.002,python; ml; scikit-learn
+E0159,0.003,0.0,0.002,python; ml; scikit-learn
+E0482,0.003,0.0,0.002,python; ml; scikit-learn
+E0485,0.003,0.0,0.002,python; ml; scikit-learn
+E0534,0.003,0.0,0.002,python; ml; scikit-learn
+E0533,0.003,0.0,0.002,python; ml; scikit-learn
+E0078,0.003,0.0,0.002,python; ml; scikit-learn
+E0079,0.003,0.0,0.002,python; ml; scikit-learn
+E0542,0.003,0.0,0.002,python; ml; scikit-learn
+E0540,0.003,0.0,0.002,python; ml; scikit-learn
+E0535,0.003,0.0,0.002,python; ml; scikit-learn
+E0551,0.002,0.0,0.002,python; ml; scikit-learn
+E0175,0.002,0.0,0.002,python; ml; scikit-learn
+E0557,0.003,0.0,0.002,python; ml; scikit-learn
+E0016,0.003,0.0,0.002,python; ml; scikit-learn
+E0560,0.003,0.0,0.002,python; ml; scikit-learn
+E0305,0.003,0.0,0.002,python; ml; scikit-learn
+E0069,0.002,0.0,0.002,python; ml; scikit-learn
+E0063,0.002,0.0,0.002,python; ml; scikit-learn
+E0067,0.003,0.0,0.002,python; ml; scikit-learn
+E0320,0.003,0.0,0.002,python; ml; scikit-learn
+E0576,0.002,0.0,0.002,python; ml; scikit-learn
+E0318,0.003,0.0,0.002,python; ml; scikit-learn
+E0319,0.003,0.0,0.002,python; ml; scikit-learn
+E0591,0.003,0.0,0.002,python; ml; scikit-learn
+E0048,0.002,0.0,0.002,python; ml; scikit-learn
+E0588,0.003,0.0,0.002,python; ml; scikit-learn
+E0584,0.003,0.0,0.002,python; ml; scikit-learn
+E0569,0.003,0.0,0.002,python; ml; scikit-learn
+E0567,0.003,0.0,0.002,python; ml; scikit-learn
+E0028,0.003,0.0,0.002,python; ml; scikit-learn
+E0572,0.003,0.0,0.002,python; ml; scikit-learn
+E0032,0.003,0.0,0.002,python; ml; scikit-learn
+E0036,0.003,0.0,0.002,python; ml; scikit-learn
+E0037,0.003,0.0,0.002,python; ml; scikit-learn
+E0039,0.003,0.0,0.002,python; ml; scikit-learn
+E0335,0.002,0.0,0.001,python; ml; scikit-learn
+E0046,0.0,0.0,0.0,python; ml; scikit-learn
+E0044,0.0,0.0,0.0,python; ml; scikit-learn
+E0571,0.0,0.0,0.0,python; ml; scikit-learn
+E0589,0.0,0.0,0.0,python; ml; scikit-learn
+E0310,0.0,0.0,0.0,python; ml; scikit-learn
+E0315,0.0,0.0,0.0,python; ml; scikit-learn
+E0074,0.0,0.0,0.0,python; ml; scikit-learn
+E0153,0.0,0.0,0.0,python; ml; scikit-learn
+E0164,0.0,0.0,0.0,python; ml; scikit-learn
+E0561,0.0,0.0,0.0,python; ml; scikit-learn
+E0473,0.0,0.0,0.0,python; ml; scikit-learn
+E0114,0.0,0.0,0.0,python; ml; scikit-learn
+E0184,0.0,0.0,0.0,python; ml; scikit-learn
+E0127,0.0,0.0,0.0,python; ml; scikit-learn
+E0190,0.0,0.0,0.0,python; ml; scikit-learn
+E0228,0.0,0.0,0.0,python; ml; scikit-learn
+E0229,0.0,0.0,0.0,python; ml; scikit-learn
+E0188,0.0,0.0,0.0,python; ml; scikit-learn
+E0369,0.0,0.0,0.0,python; ml; scikit-learn
+E0385,0.0,0.0,0.0,python; ml; scikit-learn
+E0397,0.0,0.0,0.0,python; ml; scikit-learn
+E0352,0.0,0.0,0.0,python; ml; scikit-learn
+E0365,0.0,0.0,0.0,python; ml; scikit-learn
+E0289,0.0,0.0,0.0,python; ml; scikit-learn
+E0500,0.0,0.0,0.0,python; ml; scikit-learn
+E0000,0.0,0.0,0.0,python; ml; scikit-learn
