@@ -1,0 +1,39 @@
+skill,synonyms
+python,py|pandas|numpy
+sql,mysql|postgres|queries|joins
+excel,spreadsheets|vlookup|pivot
+power bi,bi|dax|dashboards
+matplotlib,plots|charts
+pandas,dataframes|series
+ml,machine learning|models|training
+scikit-learn,sklearn
+tensorflow,tf
+pytorch,torch
+nlp,text processing|tf-idf
+apis,rest apis|endpoints
+databases,db|rdbms|sql db
+django,django rest
+fastapi,fast api
+docker,containers
+javascript,js
+react,reactjs
+html,html5
+css,css3
+redux,state mgmt
+typescript,ts
+linux,ubuntu|shell
+aws,ec2|s3|iam
+ci/cd,pipelines|github actions
+kubernetes,k8s
+terraform,iac
+transformers,transformer|bert|gpt|llm
+hugging face,hf|transformers|datasets
+langchain,agents|prompt chaining|tools
+vector db,faiss|pinecone|weaviate|chroma
+faiss,similarity search|index
+pinecone,vector database
+weaviate,vector database
+chroma,chromadb|vector store
+mlflow,model registry|tracking
+prompt engineering,prompts|few-shot|system prompt
+rag,retrieval augmented generation|retrieval
