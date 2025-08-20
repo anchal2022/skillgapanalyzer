@@ -1,0 +1,111 @@
+skill,module_name,duration_weeks
+python,Python-101 Basics,3
+sql,SQL-101 Basics,2
+excel,Excel for Analysts,2
+power bi,Power BI Dashboards,2
+matplotlib,Data Viz with Matplotlib,1
+pandas,Data Wrangling with Pandas,2
+ml,Intro to Machine Learning,3
+scikit-learn,Sklearn Practical,2
+tensorflow,TensorFlow Foundations,3
+pytorch,PyTorch Fundamentals,3
+nlp,Text Processing 101,2
+statistics,Statistics for ML,3
+spacy,spaCy for NLP,2
+tf-idf,Vectorizers & TF-IDF,1
+transformers,Transformers Basics,3
+opencv,OpenCV Basics,2
+augmentation,Data Augmentation (CV),1
+etl,ETL with Airflow,3
+pyspark,PySpark Basics,3
+airflow,Airflow DAGs 101,2
+aws,AWS Fundamentals,3
+docker,Docker for ML/Apps,2
+ci/cd,CI/CD Pipelines,2
+kubernetes,Kubernetes Fundamentals,3
+mlflow,MLflow Tracking & Registry,2
+apis,REST API Design,2
+databases,Database Fundamentals,2
+django,Django REST API,3
+fastapi,FastAPI for Services,2
+java,Java for Backend,3
+spring,Spring Boot Basics,3
+node,Node.js Fundamentals,2
+express,Express.js APIs,2
+mongodb,MongoDB Basics,2
+javascript,Modern JavaScript,3
+react,React Fundamentals,3
+html,HTML5 Basics,1
+css,CSS3 Basics,1
+redux,Redux State Management,2
+typescript,TypeScript Basics,2
+postgres,PostgreSQL Essentials,2
+kotlin,Kotlin for Android,3
+android,Android Fundamentals,3
+jetpack,Android Jetpack,2
+firebase,Firebase Essentials,2
+swift,Swift Basics,3
+ios,iOS App Fundamentals,3
+uikit,UIKit Fundamentals,2
+swiftui,SwiftUI Basics,2
+react native,React Native Basics,3
+expo,Expo Tooling,1
+linux,Linux Fundamentals,2
+monitoring,Monitoring & Alerting,2
+automation,Scripting & Automation,2
+networking,Computer Networking Basics,2
+security,Application Security Fundamentals,2
+cost optimization,AWS Cost Optimization,1
+siem,SIEM Fundamentals,2
+splunk,Splunk Basics,2
+nmap,Nmap for Security,1
+threat intel,Threat Intelligence Basics,2
+scripting,Python Scripting,2
+burp,Burp Suite Basics,1
+reporting,Security Reporting,1
+replication,Postgres Replication,2
+backup,Backup & Recovery,1
+tableau,Tableau Dashboards,2
+viz,Data Visualization Principles,1
+analytics,Product Analytics 101,2
+test cases,Test Case Design,1
+bug reporting,Bug Reporting & JIRA,1
+exploratory,Exploratory Testing,1
+jira,JIRA for QA,1
+ab testing,A/B Testing Basics,2
+storytelling,Data Storytelling,1
+metadata,Data Catalog & Metadata,2
+governance,Data Governance Basics,2
+collibra,Collibra Fundamentals,2
+dq rules,Data Quality Rules,2
+dq checks,Data Quality Checks,2
+great expectations,Great Expectations 101,2
+hadoop,Hadoop Ecosystem,3
+kafka,Apache Kafka Basics,3
+flink,Apache Flink Basics,2
+schema registry,Schema Registry 101,1
+webhooks,Webhooks & Integrations,1
+oauth,OAuth 2.0,1
+logging,Logging & Observability,1
+salesforce,Salesforce Admin Basics,3
+soql,SOQL Querying,2
+flows,Salesforce Flows,2
+apex,Apex Programming,3
+logs,Log Analysis,1
+presentation,Technical Presentation,1
+documentation,Technical Writing Basics,2
+markdown,Markdown for Docs,1
+diagrams,Diagrams & Architecture,1
+github,Git & GitHub,2
+reviews,Docs Peer Review,1
+figma,Figma for UI/UX,2
+prototyping,Rapid Prototyping,2
+ux research,UX Research Fundamentals,2
+ui guidelines,UI Guidelines & Accessibility,2
+hugging face,Hugging Face Pipelines,2
+langchain,LangChain Basics,2
+vector db,Vector Databases 101,2
+faiss,FAISS Indexing,1
+pinecone,Pinecone Basics,1
+weaviate,Weaviate Basics,1
+chroma,ChromaDB Basics,1
