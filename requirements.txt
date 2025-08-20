@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+nltk
+pdfplumber
+python-docx
+streamlit
+joblib
